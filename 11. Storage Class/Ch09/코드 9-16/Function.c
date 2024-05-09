@@ -1,0 +1,1 @@
+static int sg = 1;
